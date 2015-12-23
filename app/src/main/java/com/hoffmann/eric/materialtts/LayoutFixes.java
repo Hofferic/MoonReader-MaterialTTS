@@ -26,7 +26,7 @@ import de.robv.android.xposed.callbacks.XC_InitPackageResources;
 import de.robv.android.xposed.callbacks.XC_LayoutInflated;
 
 /**
- * Copyright Eric Hoffmann, created on 07.12.2015.
+ * Created by Eric Hoffmann on 07.12.2015.
  */
 public class LayoutFixes implements IXposedHookInitPackageResources, IXposedHookZygoteInit {
     private static final String PACKAGE_PREFIX = "com.flyersoft.moonreader";
