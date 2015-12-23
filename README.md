@@ -3,6 +3,12 @@ XPosed Module to make some visual updates to the TTS functionality of Moon+ Read
 
 You are free to use and change any of the code in this project not marked otherwise, little that there is of it.
 
+XPosed repo:
+http://repo.xposed.info/module/com.hoffmann.eric.materialtts
+
+XDA Forum:
+http://forum.xda-developers.com/xposed/modules/mod-moon-reader-tts-facelift-t3277258
+
 Used resources:
 
 XPosed is given to the Android community courtesy of rovo89, more info on xposed.info
